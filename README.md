@@ -2,52 +2,45 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+Machine+Learning+Engineer;Passionate+about+AI+%26+Analytics;Turning+Data+into+Insights)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=AI+Engineer;Passionate+about+AI+%26+Analytics;Turning+Data+into+Insights)](https://git.io/typing-svg)
 
 </div>
 
 ## 💫 About Me:
 
 🎓 **Alumni** of **Data Science** program at **International University - VNU HCMc**  
-💡 **Passion:** Discovering insights from data and building Machine Learning models  
-📊 **Expertise:** Data Analysis, Machine Learning, Deep Learning, Data Visualization  
-🌱 **Currently:** Applying AI and Data Science to solve real-world problems  
-⚡ **Goal:** Using Data Science to create value and make data-driven decisions
+💡 **Passion:** Harnessing Large Language Models (LLMs) and advanced AI to build intelligent, scalable systems  
+📊 **Expertise:** Generative AI, Natural Language Processing, Machine Learning, Deep Learning, ML System Design  
+🌱 **Currently:** Researching and developing applied AI solutions to solve complex real-world problems  
+⚡ **Goal:** Bridging the gap between cutting-edge AI research and impactful enterprise products
 
 ---
 
 ## 💻 Tech Stack:
 
-### � Data Science & Analytics
+### 🚀 Programming Languages & Core
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### 🤖 Machine Learning & Deep Learning
+### 🤖 Generative AI & Deep Learning
 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-### 📈 Data Visualization
+### 🗄️ Vector DBs & Data Management
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-### 🗄️ Databases & Big Data
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF4F00?style=for-the-badge&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
-### ☁️ Cloud & Tools
+### ☁️ MLOps & Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -58,35 +51,29 @@
 
 ## 💪 My Strengths
 
-🎯 **In-depth Data Analysis**
+🧠 **Advanced AI Capabilities**
 
-- Processing and analyzing large, complex datasets
-- Extracting valuable insights from raw data
-- Data cleaning and preparation for machine learning
+- Architecting and engineering LLM-powered applications
+- Retrieval-Augmented Generation (RAG) system design
+- Deep understanding of NLP mechanisms and state-of-the-art models
 
-🧠 **Machine Learning & AI**
+⚙️ **ML Engineering & Operations**
 
-- Building and optimizing ML/DL models
-- Experience with Classification, Regression, Clustering
-- Knowledge in NLP and Computer Vision
+- End-to-end MLOps from model training to production deployment
+- Model optimization, fine-tuning, and performance tuning
+- Scalable AI infrastructure and pipeline orchestration
 
-📊 **Data Visualization**
+🔍 **Analytical Problem Solving**
 
-- Creating intuitive dashboards and charts
-- Data Storytelling and narrative building
-- Presenting insights clearly and persuasively
+- Transforming complex business problems into viable AI mathematical formulations
+- Evaluating architectures pragmatically based on cost, latency, and accuracy
+- Fusing domain knowledge seamlessly with technical AI implementations
 
-🔍 **Critical Thinking & Problem Solving**
+⚡ **Adaptability & Continuous Innovation**
 
-- Asking the right questions and finding creative solutions
-- Evaluating and selecting optimal methods for each problem
-- Combining domain knowledge with Data Science techniques
-
-⚡ **Fast Learning & Continuous Updates**
-
-- Following the latest Data Science technologies and techniques
-- Quickly adapting to new tools and frameworks
-- Applying industry best practices
+- Keeping pace with rapid advancements in Generative AI ecosystems
+- Adopting and integrating new open-source models and AI frameworks
+- Commitment to AI safety and robust system engineering best practices
 
 ---
 
@@ -104,17 +91,21 @@
 
 ## 🔥 Featured Projects
 
-### 📌 [Shapelets-based-Few-Shot-Learning-for-Time-Series-Classification](https://github.com/DSBaoPhuc/Shapelets-based-Few-Shot-Learning-for-Time-Series-Classification.git)
+### 📌 [Text-to-SQL-LMS-with-AI](https://github.com/DSBaoPhuc/Text-to-SQL-LMS-with-AI)
 
-Implementation of a discriminative shapelet extraction, encoding and few-shot learning pipeline for multivariate time-series.
+An intuitive natural language processing interface that leverages LLMs to translate human queries into accurate and executable SQL commands for automated database interaction.
 
-### 📌 [Text-to-SQL-LMS-with-AI](https://github.com/DSBaoPhuc/Text-to-SQL-LMS-with-AI.git)
+### 📌 [Library-Management-System-with-LLMs](https://github.com/DSBaoPhuc/Library-Management-System-with-LLMs)
 
-Ứng dụng web tương tác với giao diện đẹp mắt, cho phép người dùng hỏi đáp về database thư viện bằng tiếng Việt tự nhiên. Được hỗ trợ bởi Google Gemini AI.
+An innovative, AI-powered platform capable of parsing system source code, explaining execution flows, and automating sophisticated library management operations leveraging intelligent agents.
 
-### 📌 [Netflop](https://github.com/DSBaoPhuc/Netflop.git)
+### 📌 [Profile Mate](https://github.com/DSBaoPhuc/Profile-Mate)
 
-## A Movies Recommendation System using AI
+An AI-driven advisory application that analyzes individual student profiles and intelligently recommends targeted universities tailored to their credentials and aspirations.
+
+### 📌 [Shapelets-based-Few-Shot-Learning-for-Time-Series-Classification](https://github.com/DSBaoPhuc/Shapelets-based-Few-Shot-Learning-for-Time-Series-Classification)
+
+An advanced machine learning pipeline synthesizing discriminative shapelet extraction, embedding techniques, and few-shot learning strategies for robust multivariate time-series classification.
 
 ## 🌐 Socials:
 
